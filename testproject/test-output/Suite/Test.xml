@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="MANGESH-PC" name="com.orangehrm.testcases.VerifyOrangeLogin" tests="1" failures="0" timestamp="8 Jul 2017 06:42:52 GMT" time="63.61" errors="0">
+  <testcase name="verifyValidLogin" time="63.485" classname="com.orangehrm.testcases.VerifyOrangeLogin"/>
+</testsuite>

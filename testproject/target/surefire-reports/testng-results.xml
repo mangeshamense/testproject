@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24162" started-at="2017-07-01T15:12:09Z" finished-at="2017-07-01T15:12:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24162" started-at="2017-07-01T15:12:09Z" finished-at="2017-07-01T15:12:33Z">
+      <class name="com.orangehrm.testcases.VerifyOrangeLogin">
+        <test-method status="PASS" signature="verifyValidLogin()" name="verifyValidLogin" duration-ms="24153" started-at="2017-07-01T15:12:09Z" finished-at="2017-07-01T15:12:33Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
